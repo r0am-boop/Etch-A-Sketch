@@ -44,7 +44,7 @@ function getRandomHexColor() {
  }
 
  function UserInput(){
-    customSizeGrid = prompt("Enter how many squares should be on a side (max 100): ")
+    customSizeGrid = prompt("How many Squares per side do you want?");
  }
 
  function CreateCustomGrid(){
